@@ -61,7 +61,7 @@ echo
                   Call +01 1234567890
                 </span>
               </a>
-              <a href="">
+              <a href="mailto:acruxnepal@gmail.com">
                 <i class="fa fa-envelope" aria-hidden="true"></i>
                 <span>
                   acruxnepal@gmail.com
