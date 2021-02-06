@@ -7,7 +7,7 @@ echo
       <a class="navbar-brand brand_desktop" href="index.html">
         <img src="images/logo.png" alt="" />
         <span>
-          Acrux Engineering
+          Acrux Engineering Pvt. Ltd.
         </span>
       </a>
       <div class="main_nav">
