@@ -5,6 +5,7 @@
 		$uri = 'http://';
 	}
 	$uri .= $_SERVER['HTTP_HOST'];
-	header('Location: '.$uri.'index.html');
+	//header('Location: '.$uri.'index.html');
+	//exit;
 ?>
 Something is wrong with the HTTP server installation :-(
