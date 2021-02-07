@@ -621,7 +621,7 @@ a:focus {
     height: 50px;
     margin-bottom: 25px;
     padding-left: 25px;
-    background-color: $black;
+    background-color: $white;
     outline: none;
     color: $black;
     box-shadow: 0 0 7px 0 rgba($color: #000000, $alpha: 0.2);
@@ -719,7 +719,7 @@ a:focus {
     flex-direction: column;
 
     a {
-      color: $black;
+      color: $white;
 
       i {
         font-size: 18px;
