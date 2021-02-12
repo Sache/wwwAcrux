@@ -86,7 +86,7 @@ echo
 <footer class="footer_section">
   <div class="container">
     <p>
-      &copy; <span id="displayDateYear"></span> Developed and Maintaned By
+      &copy; <span id="displayDateYear"></span> Developed and Maintained By
       <br/>
       <a href="mailto:sandeshkoirala2010@gmail.com">Sandesh Koirala</a>
     </p>
